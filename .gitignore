@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+!.gitignore
+!README.md
+
+# Allow these project folders (and everything inside)
+!/bp_highway_geoinfra/
+!/bp_highway_geoinfra/**
+!/final_year_project/
+!/final_year_project/**
+!/kanti_geoinfra/
+!/kanti_geoinfra/**
+
+# Usual junk
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
